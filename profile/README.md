@@ -1,5 +1,5 @@
 <h3>
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="25" height="25" />
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="60" height="60" />
   Finance Hub
 </h3>
 

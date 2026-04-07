@@ -3,4 +3,4 @@
   Auto Trading Hub
 </h2>
 
-A personal sandbox for exploring and experimenting with auto-trading ideas.
+> **A personal sandbox for exploring and experimenting with auto-trading ideas.**
